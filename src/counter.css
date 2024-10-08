@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(234, 141, 187);
+ }
+ #view{
+    border: 10px solid plum ;
+    height: 300px;
+    width: 45%;
+    text-align: center;
+    margin-top: 180px;
+    margin-left: 380px;
+ }
+ #head{
+    color: rgb(150, 43, 100);
+ }
+ .incbt{
+    padding: 10px 30px;
+    border-color: plum;
+    border-radius: 5px;
+    margin-top: 60px;
+    font-size: larger;
+    color: deeppink;
+    margin-right: 5px;
+    margin-left: 10px;
+ }
+ #re{
+    margin-top: 40px;
+    padding: 20px 30px;
+    border-radius: 40px;
+    background-color: hotpink;
+    color: cornsilk;
+    border: 2px solid  plum ;
+ }
+ #val{
+    font-size: larger;
+ }
